@@ -1,0 +1,1 @@
+A:Çakışma olunca gitin otomatik olarak merge yaptığını ve düzenlemememize izin verdiğini öğrendim.
