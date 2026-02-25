@@ -1,1 +1,2 @@
 A:Çakışma olunca gitin otomatik olarak merge yaptığını ve düzenlemememize izin verdiğini öğrendim.
+B:A nın benden önce push yaptığı için ben pull yapınca merge oldu main.py a gelen işaretleri sildim.güncel halini repoya yükledim
